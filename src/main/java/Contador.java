@@ -39,12 +39,4 @@ class ParametrosInvalidosException extends Exception {
     }
 }
 
-class InputMismatchException extends Exception {
-    public InputMismatchException() {
-        super("numero");
-
-    }
-}
-
-
 
